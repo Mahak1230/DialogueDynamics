@@ -1,1 +1,2 @@
 # DialogueDynamics
+DialogueDynamics is a comprehensive Natural Language Processing (NLP) project designed to analyze WhatsApp chats and provide valuable insights. The project includes sentiment analysis, text readability metrics, and various linguistic features to understand communication dynamics better. Additionally, it incorporates a deep learning model to predict the toxicity of messages across multiple categories.
